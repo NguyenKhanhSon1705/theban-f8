@@ -157,7 +157,7 @@ html{
 
 #slider{
     padding-top: 50%;
-    background-image: url(/assets/css/img/slider1.jpg);
+    background-image: url(.//assets/css/img/slider1.jpg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
